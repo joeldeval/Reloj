@@ -1,4 +1,4 @@
-Reloj
+Simulación de un reloj con cronometro
 =====
 
-Practica 2
+Creado en C#
